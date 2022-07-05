@@ -10,4 +10,5 @@ Aprendiendo GIT en a cloud guru
 
 ### Monday Jul 5
 - Learning about merge and rebase in git
+- Rebase is more like appending
 
