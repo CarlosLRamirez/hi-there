@@ -7,3 +7,7 @@ Aprendiendo GIT en a cloud guru
 - AWS Solution Architect Professional
 - Aprender DevOps
 - Documentar labs y proyectos
+
+### Monday Jul 5
+- Learning about merge and rebase in git
+
